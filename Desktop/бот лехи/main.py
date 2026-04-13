@@ -10,7 +10,7 @@ from handlers.navigation_handler import navigation_callback
 from handlers.top40_handler import top40_callback
 from handlers.attractions_handler import district_callback, metro_callback, attraction_callback
 
-load_dotenv("doc_2026-04-13_20-50-39.env")
+load_dotenv(".env")
 TOKEN = os.getenv("BOT_TOKEN")
 
 logging.basicConfig(level=logging.INFO)
