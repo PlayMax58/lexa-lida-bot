@@ -1,3 +1,6 @@
 pyTelegramBotAPI
 python-dotenv
 apscheduler
+pandas
+openpyxl
+python-telegram-bot
